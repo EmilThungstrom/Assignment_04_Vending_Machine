@@ -1,0 +1,3 @@
+# VendingMachine
+
+Assignment for Lexicon
